@@ -5,9 +5,10 @@
 ---
 <br>
 
+
 ---
-## 01. TopicGPT
-#### ▶ Text-Based Emotion Analysis Using Language Models
+## 01. TopicGPT 
+#### &nbsp;: Text-Based Emotion Analysis Using Language Models <br>
 ---
 <br>
 
