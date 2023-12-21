@@ -4,13 +4,11 @@
 - This repository is for Interactive AI development
 ---
 <br>
-<br>
 
 ---
 ## 01. TopicGPT
 #### ▶ Text-Based Emotion Analysis Using Language Models
 ---
-<br>
 <br>
 
 ---
@@ -22,7 +20,6 @@
 
 ---
 <br>
-<br>
 
 ---
 ## 03.Objectives
@@ -30,7 +27,6 @@
 2. To adapt existing topic analysis models for use in emotion analysis.
 3. To enhance the ability of conversational AIs to understand user intentions.
 ---
-<br>
 <br>
 
 ---
